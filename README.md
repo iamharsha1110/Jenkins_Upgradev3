@@ -1,4 +1,4 @@
-# Jenkins Upgradev3 (cron - testing)
+# Jenkins Upgradev3 (cron - jenkins)
 
 ![Jenkins Logo](https://jenkins.io/images/logos/jenkins-logo.png)
 
